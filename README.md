@@ -10,3 +10,4 @@ Prije učitavanja .scr, potrebno je ubaciti blok s simbolima.
 
 Ukoliko nedostaje neki blok, potrebno je dodati kod s vrstom bloka.
 Naziv bloka jednak je nazivu iz kartografskog ključa.
+Ekstenzije .txt prije učitavanja u ACAD, promijeniti u .scr.

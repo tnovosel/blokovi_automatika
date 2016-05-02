@@ -4,6 +4,22 @@ in_file = open(input("ulazna datoteka? "),"r")
 
 out_file = open("blokovi_"+in_file.name, "w")
 
+rjecnik2 = {
+	'C' : '', #cesta
+	'RUB' : '', #rubnjak
+	'RUBNJAK' : '', #rubnjak
+	'RUBKOB' : '', #rubnjak, spojiti na kraj objekta
+	'GRAG' : '', #graba gore
+	'GRAD' : '', #graba dolje
+	'CIJEVD' : '', #dno cijevi
+	'V' : '', #visina
+	'CM' : '', #cesta makadam
+	'SEPT' : '', #septicka jama
+	'RUBK' : '', #kraj rubnjaka
+	'KANALICA' : '', #kanalica
+	'SLB' : '' #vidjeti sto je to
+
+}
 
 rjecnik = {
 'ZID' : '30504A-1',
@@ -55,11 +71,14 @@ rjecnik = {
 'SAHT_VODA' : '40902B-1',
 'ZATVARAC_OKNO' : '40903-1',
 'HIDRANT_POVRSINA' : '40904B-1',
+'HIDRANT' : '40904B-1', #hidrant na povrsini
 'HIDRANT_OKNO' : '40905-1',
+'HID' : '40904B-1', #hidrant na povrsini
 'STTDR' : '41113-1',
 'STTELDR' : '41113-1',
 'STTD' : '41113-1',
 'SHT' : '41119B-1',
+'SAHT' : '41302B-1', #saht-nije definirana vrsta, reviziono okno-simobl
 'OKNO_TEL' : '41119B-1',
 'TEL_OKNO' : '41119B-1',
 'SLV' : '41301-1',
@@ -74,7 +93,9 @@ rjecnik = {
 'ZIV' : '60124A-1',
 'ZIVICA' : '60124A-1',
 'MEDA' : '90501-1',
-'MEDJA' :'90501-1'
+'MEDJA' : '90501-1',
+'ZHDO' : '40901-1', #zatvarac voda
+'OZICKOB' : '30508A-1' #zicana ograda, spojiti na kraj objekta
 }
 
 
@@ -96,6 +117,9 @@ while True:
 		out_file.write("\n")
 		out_file.write("0")
 		out_file.write("\n")
+
+	elif kod[4] in rjecnik2:
+		pass
 
 	else:
 		out_file.write('Fali kod za '+kod[4])

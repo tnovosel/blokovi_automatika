@@ -17,7 +17,17 @@ rjecnik2 = {
 	'SEPT' : '', #septicka jama
 	'RUBK' : '', #kraj rubnjaka
 	'KANALICA' : '', #kanalica
-	'SLB' : '' #vidjeti sto je to
+	'SLB' : '' ,#vidjeti sto je to
+	'CM' : '', #cesta makadam
+	'V' : '', #visina
+	'ULAZ' : '', #ulaz
+	'OTOK' : '', #otok na cesti
+	'TRAFO' : '', #trafostanica
+	'GRABA' : '', #graba
+	'CA_CM' : '',#cesta asfalt-makadam
+	'CA_NOVI' : '', #cesta nova
+	'OBJ' : '', #objekt
+	'PROPUST' :'' #propust
 
 }
 
@@ -33,6 +43,7 @@ rjecnik = {
 'SUHZID' : '30506A-1',
 'OD' : '30507A-1',
 'OGRDRV' :'30507A-1',
+'ODRV' :'30507A-1',
 'OGDR' : '30507A-1',
 'POLIGON' : '10401-1',
 'POL' : '10401-1',
@@ -95,7 +106,8 @@ rjecnik = {
 'MEDA' : '90501-1',
 'MEDJA' : '90501-1',
 'ZHDO' : '40901-1', #zatvarac voda
-'OZICKOB' : '30508A-1' #zicana ograda, spojiti na kraj objekta
+'OZICKOB' : '30508A-1', #zicana ograda, spojiti na kraj objekta
+'VODAZ' : '40901-1' #zatvarac voda
 }
 
 

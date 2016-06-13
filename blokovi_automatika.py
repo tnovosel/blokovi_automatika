@@ -27,7 +27,11 @@ rjecnik2 = {
 	'CA_CM' : '',#cesta asfalt-makadam
 	'CA_NOVI' : '', #cesta nova
 	'OBJ' : '', #objekt
-	'PROPUST' :'' #propust
+	'PROPUST' :'', #propust
+	'VIS' : '', #visina
+	'CA' : '', #cesta asfalt
+	'PUT' : '' #put
+
 
 }
 
@@ -107,7 +111,8 @@ rjecnik = {
 'MEDJA' : '90501-1',
 'ZHDO' : '40901-1', #zatvarac voda
 'OZICKOB' : '30508A-1', #zicana ograda, spojiti na kraj objekta
-'VODAZ' : '40901-1' #zatvarac voda
+'VODAZ' : '40901-1', #zatvarac voda
+'SDTEL' :'41113-1' #drveni telefonski stup
 }
 
 

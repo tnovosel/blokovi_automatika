@@ -112,7 +112,9 @@ rjecnik = {
 'ZHDO' : '40901-1', #zatvarac voda
 'OZICKOB' : '30508A-1', #zicana ograda, spojiti na kraj objekta
 'VODAZ' : '40901-1', #zatvarac voda
-'SDTEL' :'41113-1' #drveni telefonski stup
+'SDTEL' :'41113-1',#drveni telefonski stup
+'ZELJ_STUP' : '40204A-1' #zeljezni telefonski stup
+
 }
 
 

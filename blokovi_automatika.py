@@ -30,7 +30,9 @@ rjecnik2 = {
 	'PROPUST' :'', #propust
 	'VIS' : '', #visina
 	'CA' : '', #cesta asfalt
-	'PUT' : '' #put
+	'PUT' : '', #put
+	'CM_CA' :'', #cesta makadam/asfalt
+	'PARKING' :'' #parking
 
 
 }
@@ -113,7 +115,9 @@ rjecnik = {
 'OZICKOB' : '30508A-1', #zicana ograda, spojiti na kraj objekta
 'VODAZ' : '40901-1', #zatvarac voda
 'SDTEL' :'41113-1',#drveni telefonski stup
-'ZELJ_STUP' : '40204A-1' #zeljezni telefonski stup
+'ZELJ_STUP' : '40204A-1', #zeljezni telefonski stup
+'OB_OZELJ' : '30509A-1', #ograda betonsko-zeljezna, ubacuje se zeljezna
+'SBSTL' : '40203-1' #stup betonski, struja lampa, ubacuje se betonski stup struje
 
 }
 

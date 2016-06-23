@@ -134,7 +134,7 @@ rjecnik = {
 'OZELJ_ULAZ' : '30509A-1', #zeljezna ograda
 'VODA_Z' : '40901-1', #zatvarac za vodu
 'OB' : '30504A-1', #ograda betonska
-'OB' : '30509A-1' #ograda betonsko-zeljezna, stavljen simbol zeljezne
+'OBOZLJ' : '30509A-1' #ograda betonsko-zeljezna, stavljen simbol zeljezne
 
 }
 

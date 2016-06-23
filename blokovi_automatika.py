@@ -32,7 +32,14 @@ rjecnik2 = {
 	'CA' : '', #cesta asfalt
 	'PUT' : '', #put
 	'CM_CA' :'', #cesta makadam/asfalt
-	'PARKING' :'' #parking
+	'PARKING' : '', #parking
+	'PSOPUST' : '', #propust
+	'CA_ULAZ' : '', #asfaltirana cesta, ulaz
+	'CA_' : '', #cesta asfalt
+	'MOST' : '', #most
+	'STERNJA' : '', #sternja
+	'CM_ULAZ' : '' #cesta makadam, ulaz
+
 
 
 }
@@ -117,7 +124,17 @@ rjecnik = {
 'SDTEL' :'41113-1',#drveni telefonski stup
 'ZELJ_STUP' : '40204A-1', #zeljezni telefonski stup
 'OB_OZELJ' : '30509A-1', #ograda betonsko-zeljezna, ubacuje se zeljezna
-'SBSTL' : '40203-1' #stup betonski, struja lampa, ubacuje se betonski stup struje
+'SBSTL' : '40203-1', #stup betonski, struja lampa, ubacuje se betonski stup struje
+'OBODRV' : '30507A-1', #ograda betonsko drvena?, ubacuje se drvena ograda
+'SAHT_K' : '41302B-1', #saht kanalizacija, ubacuje se reviziono okno
+'OBOZELJ' : '30509A-1', #ograda betonsko zeljezno
+'ORMARIC' : '41102-1', #stup struja
+'ZID_NASIP' : '30504A-1', # zid-nasip
+'ZID_NASIP_ULAZ' : '30504A-1', # zid-nasip-ulaz
+'OZELJ_ULAZ' : '30509A-1', #zeljezna ograda
+'VODA_Z' : '40901-1', #zatvarac za vodu
+'OB' : '30504A-1', #ograda betonska
+'OB' : '30509A-1' #ograda betonsko-zeljezna, stavljen simbol zeljezne
 
 }
 

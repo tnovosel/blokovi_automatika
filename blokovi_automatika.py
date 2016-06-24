@@ -38,8 +38,10 @@ rjecnik2 = {
 	'CA_' : '', #cesta asfalt
 	'MOST' : '', #most
 	'STERNJA' : '', #sternja
-	'CM_ULAZ' : '' #cesta makadam, ulaz
-
+	'CM_ULAZ' : '', #cesta makadam, ulaz
+	'TEMELJ' : '', #temelj
+	'GRA' : '', #graba
+	'SAHT_L' : '' #lomna tocka sahta, ubaciti ako treba na sredinu spoja blok
 
 
 }
@@ -111,9 +113,9 @@ rjecnik = {
 'SLVNIK' : '41301-1',
 'REVIZIONO_OKNO' : '41302B-1',
 'TALOZNICA' : '41303B-1',
-'DB' : '60118-1',
-'DC' : '60119-1',
-'OZIV' : '60124A-1',
+'DB' : '60118-1', #drvo bjelogorica
+'DC' : '60119-1', #drvo crnogorica
+'OZIV' : '60124A-1', #zivica
 'ZIV' : '60124A-1',
 'ZIVICA' : '60124A-1',
 'MEDA' : '90501-1',
@@ -134,7 +136,11 @@ rjecnik = {
 'OZELJ_ULAZ' : '30509A-1', #zeljezna ograda
 'VODA_Z' : '40901-1', #zatvarac za vodu
 'OB' : '30504A-1', #ograda betonska
-'OBOZLJ' : '30509A-1' #ograda betonsko-zeljezna, stavljen simbol zeljezne
+'OBOZLJ' : '30509A-1', #ograda betonsko-zeljezna, stavljen simbol zeljezne
+'SZSTL' : '40204A-1', #stup zeljezni struja lampa, ubacuje se zeljezni stup struje
+'OZIV_ULAZ' : '60124A-1', #zivica na ulazu
+'SDSTL' : '40202-1' #stup drveni struja lampa, ubacuje se drveni stup struje
+
 
 }
 

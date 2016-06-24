@@ -41,9 +41,12 @@ rjecnik2 = {
 	'CM_ULAZ' : '', #cesta makadam, ulaz
 	'TEMELJ' : '', #temelj
 	'GRA' : '', #graba
-	'SAHT_L' : '' #lomna tocka sahta, ubaciti ako treba na sredinu spoja blok
-
-
+	'SAHT_L' :'', #lomna tocka sahta, ubaciti ako treba na sredinu spoja blok
+	'PRUGA' : '',#pruga
+	'TRACNICE' : '', #tracnice
+	'OBJEKT' : '',#objekt
+	'PK' : '' #pruzni kamen
+	
 }
 
 rjecnik = {
@@ -139,8 +142,13 @@ rjecnik = {
 'OBOZLJ' : '30509A-1', #ograda betonsko-zeljezna, stavljen simbol zeljezne
 'SZSTL' : '40204A-1', #stup zeljezni struja lampa, ubacuje se zeljezni stup struje
 'OZIV_ULAZ' : '60124A-1', #zivica na ulazu
-'SDSTL' : '40202-1' #stup drveni struja lampa, ubacuje se drveni stup struje
-
+'SDSTL' : '40202-1', #stup drveni struja lampa, ubacuje se drveni stup struje
+'OBOZIC' : '30508A-1', #ograda betonsko zicana, ubacuje se zicana
+'V_ZAT' : '40901-1', #zatvarac voda
+'OZIC_ULAZ' : '30508A-1', #zicana ograda ulaz
+'SEMOFOR' : '40208-1', #semafor
+'SZP' : '40204B-1', #stup zeljezni uz prugu
+'OBOD' : '30507A-1' #betonska-drvena ograda, ubacuje se drvena ograda
 
 }
 

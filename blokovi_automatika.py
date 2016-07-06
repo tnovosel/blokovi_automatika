@@ -45,7 +45,8 @@ rjecnik2 = {
 	'PRUGA' : '',#pruga
 	'TRACNICE' : '', #tracnice
 	'OBJEKT' : '',#objekt
-	'PK' : '' #pruzni kamen
+	'PK' : '', #pruzni kamen
+	'RAMPA' : '' #rampa
 	
 }
 

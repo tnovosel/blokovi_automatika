@@ -46,7 +46,18 @@ rjecnik2 = {
 	'TRACNICE' : '', #tracnice
 	'OBJEKT' : '',#objekt
 	'PK' : '', #pruzni kamen
-	'RAMPA' : '' #rampa
+	'RAMPA' : '', #rampa
+	'OBRADA-MOST' : '', #most-ograda
+	'CA-OBRADA-MOST' : '', #cesta asfalt, obrada most
+	'VODE' : '', #pojas voda
+	'KORIDOR' : '', #koridor ceste
+	'STEPENICE' : '', #stepenice
+	'BUNAR' : '', #bunar
+	'CA-MOST' : '', #most
+	'NOGOSTUP' : '', #nogostup
+	'GRABA_' : ''  #graba
+
+
 	
 }
 
@@ -134,7 +145,7 @@ rjecnik = {
 'OBODRV' : '30507A-1', #ograda betonsko drvena?, ubacuje se drvena ograda
 'SAHT_K' : '41302B-1', #saht kanalizacija, ubacuje se reviziono okno
 'OBOZELJ' : '30509A-1', #ograda betonsko zeljezno
-'ORMARIC' : '41102-1', #stup struja
+'ORMARIC' : '41102-1', #kabelski razdjelnik u samostojecom ormaricu (struja)
 'ZID_NASIP' : '30504A-1', # zid-nasip
 'ZID_NASIP_ULAZ' : '30504A-1', # zid-nasip-ulaz
 'OZELJ_ULAZ' : '30509A-1', #zeljezna ograda
@@ -149,7 +160,17 @@ rjecnik = {
 'OZIC_ULAZ' : '30508A-1', #zicana ograda ulaz
 'SEMOFOR' : '40208-1', #semafor
 'SZP' : '40204B-1', #stup zeljezni uz prugu
-'OBOD' : '30507A-1' #betonska-drvena ograda, ubacuje se drvena ograda
+'OBOD' : '30507A-1', #betonska-drvena ograda, ubacuje se drvena ograda
+'OR-STRUJA' : '41102-1', #ormaric struja
+'OZIVICA' : '60124A-1', #zivica
+'SBSTL-OBZELJ' : '40203-1', #stup betonski struja-lampa uz zeljezno betonsku ogradu, #ubacuje se betonski stup struje
+'SDRODE' : '40202-1', #stup drveni struja
+'ULAZ-OZELJ' : '30509A-1', #zeljezna ograda na ulazu
+'0ZIC' : '30508A-1', #zicana ograda
+'ULAZ-ZID' : '30504A-1', #zid
+'ULAZ-ODRV' : '30507A-1', #drvena ograda
+'SAHT-TEL' : '41119B-1', #saht telefon
+'OZIC-ULAZ' : '30508A-1' #zicana ograda na ulazu
 
 }
 

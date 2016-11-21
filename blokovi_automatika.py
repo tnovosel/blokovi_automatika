@@ -55,7 +55,12 @@ rjecnik2 = {
 	'BUNAR' : '', #bunar
 	'CA-MOST' : '', #most
 	'NOGOSTUP' : '', #nogostup
-	'GRABA_' : ''  #graba
+	'GRABA_' : '',  #graba
+	'OBROV' : '', #obrov, mozda je meda
+	'POTHOD' : '', #pothodnik
+	'POTHODNIK' : '', #pothodnik
+	'PT' : '', #poligonska tocka
+	'STUPICbeton' : '' #betonski stupic, staviti u kodove, ako bude trebalo
 
 
 	

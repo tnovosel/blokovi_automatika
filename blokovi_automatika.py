@@ -170,7 +170,9 @@ rjecnik = {
 'ULAZ-ZID' : '30504A-1', #zid
 'ULAZ-ODRV' : '30507A-1', #drvena ograda
 'SAHT-TEL' : '41119B-1', #saht telefon
-'OZIC-ULAZ' : '30508A-1' #zicana ograda na ulazu
+'OZIC-ULAZ' : '30508A-1', #zicana ograda na ulazu
+'ELBET' : '40203-1', #stup betonski struja
+'ELDRV' : '40202-1' #stup drveni struja
 
 }
 

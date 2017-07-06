@@ -60,7 +60,16 @@ rjecnik2 = {
 	'POTHOD' : '', #pothodnik
 	'POTHODNIK' : '', #pothodnik
 	'PT' : '', #poligonska tocka
-	'STUPICbeton' : '' #betonski stupic, staviti u kodove, ako bude trebalo
+	'STUPICbeton' : '', #betonski stupic, staviti u kodove, ako bude trebalo
+	'CA' : '', #cesta asfalt
+	'GR' : '', #graba kraj
+	'grk-pror' : '', #grk-pror, graba kraj, propust
+	'v' : '', #visina
+	'pr-rh' : '', #?
+	'ku' : '', #
+	'grk' : '',# kraj grabe
+	'SAHT_NN' : ''# nepoznati saht
+
 
 
 	
@@ -84,6 +93,7 @@ rjecnik = {
 'POL' : '10401-1',
 'OZ' : '30508A-1',
 'OZIC' : '30508A-1',
+'ozic' : '30508A-1',
 'ZICOGR' :'30508A-1',
 'OGRZ' :'30508A-1',
 'OZELJ' : '30509A-1',
@@ -177,7 +187,9 @@ rjecnik = {
 'SAHT-TEL' : '41119B-1', #saht telefon
 'OZIC-ULAZ' : '30508A-1', #zicana ograda na ulazu
 'ELBET' : '40203-1', #stup betonski struja
-'ELDRV' : '40202-1' #stup drveni struja
+'ELDRV' : '40202-1', #stup drveni struja
+'STRUJA_SAHT' : '402165-1' #struja saht
+
 
 }
 
